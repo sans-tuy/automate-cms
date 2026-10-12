@@ -1,0 +1,27 @@
+{
+  "base_url": "http://10.161.1.1:4111/",
+  "selectors": {
+    "modal_category": null
+  },
+  "ai": {
+    "provider": "openai",
+    "base_url": "https://api.openai.com/v1",
+    "model": "gpt-4.1-mini",
+    "api_key_env": "OPENAI_API_KEY",
+    "timeout_seconds": 60,
+    "max_retries": 2
+  },
+  "category_keywords": {
+    "Elektronik": ["handphone", "hp", "ponsel", "laptop", "komputer", "telepon genggam", "kartu sim"],
+    "Sepeda Motor": ["sepeda motor", "motor", "kendaraan roda dua"],
+    "Mobil": ["mobil", "kendaraan roda empat"],
+    "Truk": ["truk"],
+    "Sepeda": ["sepeda"],
+    "Dokumen": ["ktp", "sim", "stnk", "bpkb", "sertifikat"],
+    "Uang": ["uang tunai", "rupiah", "uang"],
+    "narkotika/psykotropika": ["ganja", "sabu-sabu", "sabu", "pil logo y"],
+    "pakaian": ["kaos", "kaus", "baju", "kemeja", "jaket", "celana dalam", "celana panjang"]
+  },
+  "unit_aliases": {"buah": "Buah", "unit": "Unit", "lembar": "Lembar", "batang": "Batang", "bungkus": "Bungkus", "paket": "Bungkus", "gram": "Gram", "gr": "Gram", "g": "Gram", "kg": "Kg", "kilogram": "Kg", "butir": "Butir", "keping": "Keping", "rupiah": "Rupiah"},
+  "fractional_units": ["Gram", "Kg"]
+}

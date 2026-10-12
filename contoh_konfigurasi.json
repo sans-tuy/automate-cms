@@ -1,0 +1,13 @@
+{
+  "base_url": "http://10.16.1.101:4111",
+  "login_path": "/user/login",
+  "case_index_path": "/pidum/pdm-tahap-dua/index",
+  "timeout_ms": 15000,
+  "manual_login_timeout_ms": 300000,
+  "headless": false,
+  "selectors": {
+    "modal_seized_from": "#m_barbuk #sita_barbuk",
+    "modal_storage": "#m_barbuk #tmpt_simpan_barbuk",
+    "modal_condition": "#m_barbuk #kondisi_barbuk"
+  }
+}

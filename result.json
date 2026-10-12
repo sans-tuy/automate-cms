@@ -1,0 +1,48 @@
+[
+  {
+    "no": "1",
+    "TANGGAL": "01 09 26",
+    "Nomer register Barang Bukti": "RB-448/EOH.2/09/26",
+    "Nomer register perkara": "PDM-5195/M.5.10/EOH.2/09/26",
+    "NAMA LENGKAP, TEMPAT LAHIR, UMUR/TGL LAHIR, JENIS KELAMIN, KEBANGSAAN, TEMPANG TINGGAL, AGAMA, PEKERJAAN, PENDIDIKAN": "Nama Lengkap : MOCHAMMAD FENDY HIDAYAT BIN SANDI\r\nNomor Identitas : 3578251809990001\r\nTempat Lahir : Surabaya\r\nUmur/tanggal lahir : 26 Tahun / 18 September 1999\r\nJenis Kelamin : Laki-laki\r\nKebangsaan/Kewarganegaraan : Indonesia\r\nTempat Tinggal : JL.Rungkut Tengah 1 A No.29 H RT.002 RW.004,Kel.Rungkut Tengah Kec.Gunung Anyar Surabaya\r\nA g a m a : Islam\r\nPekerjaan : Pelajar / Mahasiswa\r\nPendidikan : Sekolah Lanjutan Tingkat Atas / Sederajat",
+    "JPU / JE": "VINZA BUANANDA W, S.H.\r\nDAMANG ANUBOWO, S.H.",
+    "Pasal yang disangkakan / didakwakan": "476",
+    "barang_bukti": [
+      {
+        "nama_barang": "1 SEPEDA MOTOR YAMAHA JUPITER BIRU L-3466-QY + STNK + BPKB TP KONTAK",
+        "jumlah": 1,
+        "satuan": "Unit",
+        "kategori": "Kendaraan"
+      },
+      {
+        "nama_barang": "1 KAOS BERKERAH BIRU",
+        "jumlah": 1,
+        "satuan": "Buah",
+        "kategori": "Lain-lain"
+      }
+    ]
+  },
+  {
+    "no": "1",
+    "TANGGAL": "01 09 26",
+    "Nomer register Barang Bukti": "RB-448/EOH.2/09/26",
+    "Nomer register perkara": "PDM-5197/M.5.10/EOH.2/09/26",
+    "NAMA LENGKAP, TEMPAT LAHIR, UMUR/TGL LAHIR, JENIS KELAMIN, KEBANGSAAN, TEMPANG TINGGAL, AGAMA, PEKERJAAN, PENDIDIKAN": "Nama Lengkap : MOCHAMMAD FENDY HIDAYAT BIN SANDI\r\nNomor Identitas : 3578251809990001\r\nTempat Lahir : Surabaya\r\nUmur/tanggal lahir : 26 Tahun / 18 September 1999\r\nJenis Kelamin : Laki-laki\r\nKebangsaan/Kewarganegaraan : Indonesia\r\nTempat Tinggal : JL.Rungkut Tengah 1 A No.29 H RT.002 RW.004,Kel.Rungkut Tengah Kec.Gunung Anyar Surabaya\r\nA g a m a : Islam\r\nPekerjaan : Pelajar / Mahasiswa\r\nPendidikan : Sekolah Lanjutan Tingkat Atas / Sederajat",
+    "JPU / JE": "VINZA BUANANDA W, S.H.\r\nDAMANG ANUBOWO, S.H.",
+    "Pasal yang disangkakan / didakwakan": "476",
+    "barang_bukti": [
+      {
+        "nama_barang": "1 HP OPPO A16 BIRU",
+        "jumlah": 1,
+        "satuan": "Unit",
+        "kategori": "Elektronik"
+      },
+      {
+        "nama_barang": "1 CELANA PANJANG KAIN PARASUT HITAM",
+        "jumlah": 1,
+        "satuan": "Buah",
+        "kategori": "Lain-lain"
+      }
+    ]
+  }
+]

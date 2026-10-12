@@ -1,0 +1,18 @@
+[
+    {
+        "no_register_perkara": "PDM-5195/M.5.10/EOH.2/09/26",
+        "no_register_barang bukti": "RB-448/EOH.2/09/26",
+        "barang_bukti": [
+            {
+                "jumlah": 1,
+                "kategori": "kendaraan",
+                "satuan": "unit"
+            },
+            {
+                "jumlah": 1,
+                "kategori": "pakaian",
+                "satuan": "buah"
+            }
+        ]
+    }
+]

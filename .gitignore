@@ -1,0 +1,9 @@
+node_modules/
+dist/
+artifacts/
+screenshots/
+hasil_validasi.json
+hasil_input_ts.csv
+.env
+__pycache__/
+*.pyc

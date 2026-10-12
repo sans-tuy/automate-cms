@@ -1,0 +1,24 @@
+{
+  "name": "otomasi-barang-bukti",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Pengisian barang bukti dari result.json menggunakan TypeScript dan Playwright",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "npm run build && node dist/src/run.js",
+    "dry-run": "npm run start -- --mode dry-run",
+    "test": "npm run build && node --test dist/tests/*.test.js",
+    "browser:install": "playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.0",
+    "typescript": "^5.9.0"
+  }
+}
